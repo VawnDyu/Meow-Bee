@@ -1,0 +1,79 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Meow_Bee</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>VisualBasic</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Meow_Bee</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Meow_Bee.vbproj" File="Meow_Bee.vbproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="bugcatdesktopicon.ico">bugcatdesktopicon.ico</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.vb">Form1.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.Designer.vb">Form1.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.resx">Form1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form10.vb">Form10.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form10.Designer.vb">Form10.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form10.resx">Form10.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form11.vb">Form11.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form11.Designer.vb">Form11.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form11.resx">Form11.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form12.vb">Form12.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form12.Designer.vb">Form12.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form12.resx">Form12.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form13.vb">Form13.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form13.Designer.vb">Form13.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form13.resx">Form13.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form14.vb">Form14.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form14.Designer.vb">Form14.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form14.resx">Form14.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form15.vb">Form15.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form15.Designer.vb">Form15.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form15.dje.resx">Form15.dje.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form15.en.resx">Form15.en.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form15.resx">Form15.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form2.vb">Form2.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form2.Designer.vb">Form2.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form2.resx">Form2.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form3.vb">Form3.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form3.Designer.vb">Form3.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form3.resx">Form3.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form4.vb">Form4.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form4.Designer.vb">Form4.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form4.resx">Form4.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form5.vb">Form5.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form5.Designer.vb">Form5.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form5.resx">Form5.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form6.vb">Form6.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form6.Designer.vb">Form6.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form6.resx">Form6.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form7.vb">Form7.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form7.Designer.vb">Form7.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form7.resx">Form7.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form8.vb">Form8.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form8.Designer.vb">Form8.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form8.resx">Form8.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form9.vb">Form9.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form9.Designer.vb">Form9.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form9.resx">Form9.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Meow_Bee.pfx">Meow_Bee.pfx</ProjectItem>
+      <Folder Name="My Project" TargetFolderName="My Project">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.myapp">Application.myapp</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.Designer.vb">Application.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.vb">AssemblyInfo.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.vb">Resources.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.vb">Settings.Designer.vb</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
